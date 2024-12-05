@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chipmas 2024</title>
+    <link rel="icon" type="image/x-icon" href="logo.png">
+    <style>
+        /* Default (Light) Theme */
+        /* Default (Light) Theme */
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #ffffff; /* Light mode background */
+            color: #000000; /* Dark text color */
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        input, div {
+            margin: 10px 0;
+            padding: 8px;
+            font-size: 16px;
+        }
+        .option {
+            padding: 10px;
+            cursor: pointer;
+            background-color: #333;  /* Dark option background */
+            border: 1px solid #444;
+            margin-bottom: 5px;
+            transition: background-color 0.3s;
+        }
+        .option:hover {
+            background-color: #444;  /* Darker hover effect */
+        }
+        #text-container {
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        /* Dark Theme */
+        body.dark-mode {
+            background-color: #121212; /* Dark background */
+            color: #f0f0f0; /* Light text */
+        }
+        body.dark-mode .option {
+            background-color: #333;  /* Dark option background */
+            color: #f0f0f0;  /* Light text for options */
+            border: 1px solid #444;
+        }
+        body.dark-mode .option:hover {
+            background-color: #444;  /* Hover effect for dark mode */
+        }
+        body.dark-mode #text-container {
+            background-color: #333;
+            color: #f0f0f0;
+        }
+        /* Logo Styles */
+        #logo {
+            max-width: 150px;
+            display: block;
+            margin: 0 auto 20px;
+        }
+        /* Dark Mode Toggle Button in Top Right Corner */
+        #dark-mode-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            cursor: pointer;
+            padding: 8px 16px;
+            background-color: #0066cc;
+            color: white;
+            border: none;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+        #dark-mode-toggle:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body><center>  <!-- Default to Dark Mode -->
+    <!-- Company Logo -->
+    <img id="logo" src="logo.png" alt="Company Logo">
+
+    <h1>Chipmas 2024 Itinerary</h1>
+
+    <!-- Area to display text (this will appear above the options list) -->
+    <div id="text-container"></div>
+
+    <!-- Search bar to filter options -->
+    <input type="text" id="searchbar" placeholder="Search your name..." onkeyup="filterOptions()">
+
+    <!-- List of options will appear here -->
+    <div id="options-list"></div>
+
+    <script>
+        let data = {}; // Variable to store the JSON data
+        let allOptions = []; // Store the keys of options for search/filtering
+        let addresses = {}; // Variable to store the addresses data
+
+        // Fetch the main JSON data
+        fetch('data.json')
+            .then(response => response.json())
+            .then(fetchedData => {
+                data = fetchedData;
+                allOptions = Object.keys(data); // Extract keys (option names) from the data
+                displayOptions(allOptions); // Initially display all options
+            })
+            .catch(error => {
+                console.error('Error loading the main JSON file:', error);
+            });
+
+        // Fetch the addresses JSON data
+        fetch('addresses.json')
+            .then(response => response.json())
+            .then(fetchedAddresses => {
+                addresses = fetchedAddresses;
+            })
+            .catch(error => {
+                console.error('Error loading the addresses JSON file:', error);
+            });
+
+        // Function to display the options below the search bar
+        function displayOptions(options) {
+            const optionsList = document.getElementById('options-list');
+            optionsList.innerHTML = ''; // Clear any existing options
+
+            options.forEach(option => {
+                const optionElement = document.createElement('div');
+                optionElement.classList.add('option');
+                optionElement.textContent = option.charAt(0).toUpperCase() + option.slice(1);
+                optionElement.onclick = function() {
+                    showText(option);
+                };
+                optionsList.appendChild(optionElement);
+            });
+        }
+
+        // Function to update the text above the options list based on the selected option
+        function showText(option) {
+            const optionData = data[option];
+            const textContainer = document.getElementById('text-container');
+
+            // Look up the address for the selected monday_dinner
+            const dinnerAddress = addresses[optionData.monday_dinner] ? addresses[optionData.monday_dinner].address : "Address not available.";
+
+            textContainer.innerHTML = `
+                <p><strong>Monday Activity:</strong> ${optionData.monday_activity}</p><hr>
+                <p><strong>Monday Dinner:</strong> ${optionData.monday_dinner}</p>
+                <p>${dinnerAddress}</p><hr>
+                <p><strong>Pub Quiz:</strong> ${optionData.pub_quiz}</p><hr>
+                <p><strong>Tuesday Dinner:</strong> ${optionData.tuesday_dinner}</p>
+            `;
+        }
+
+        // Function to filter options based on the search input
+        function filterOptions() {
+            const searchTerm = document.getElementById('searchbar').value.toLowerCase();
+
+            // Filter the options based on the search term
+            const filteredOptions = allOptions.filter(option => option.toLowerCase().includes(searchTerm));
+
+            // Display the filtered options
+            displayOptions(filteredOptions);
+        }
+            // Automatically apply dark mode on page load
+            document.body.classList.add('dark-mode');
+
+        // Dark mode toggle functionality
+        document.getElementById('dark-mode-toggle').addEventListener('click', function() {
+            console.log("Toggling dark mode"); // Debugging step
+            document.body.classList.toggle('dark-mode');
+        });
+    </script>
+    </center>
+</body>
+</html>

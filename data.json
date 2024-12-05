@@ -1,0 +1,789 @@
+{
+    
+        "Abby Ebims": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+        },
+       "Adam Popeck": {
+          "monday_activity": "Whisky 4:00PM",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Aidan Maskell": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Alex Latham": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Alice Odulaja": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Alicja Duniec": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Aline Claudio": {
+          "monday_activity": "",
+          "monday_dinner": "",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Amelia Welch": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Anastasia Nazarova": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Andrea Agudo": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Andrew Denholm": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Andy Brown": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Angela Aciobanitei": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Aydin Rajaei": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Bart Teodorczyk": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Bartosz Ziemba": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Beccy Parkin": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Belen Borilo": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Ben Jardine": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Ben Whitty ": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Carlos Guillermo Collarte Gonzalez": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Chandra Addepalli": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Charlie Nguyen": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Chee Liu": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Chloe Hsu": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Cindy Atchoson": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Corinna Lamberti": {
+          "monday_activity": "",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Dan Picton": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Danae Alogoskoufi": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Daniel Bowling": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Darren Findlay": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Dave Hickman": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "David Wilcock": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Desi Kadyova": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Elliot Colby": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Emma Gray": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Emma Mohan": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Erin Quinn": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Evie Oko-Buckley": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Freddie McLean": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Garry Sanders": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Gaston Frete": {
+          "monday_activity": "Whisky 4:00PM",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Georgia Garforth": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Glen Ross-Oxton": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Harrison Ryder": {
+          "monday_activity": "Whisky 4:00PM",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Helena Polomcic": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Henri Tiensuu": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Iain Mullan": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Ionut Trandafir": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Irma Weeks": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Jacob Porley": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Jean-Michel Tokabi": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Jeremy Auclert": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Jess Sultanovic": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Jo Hill": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "John Parkinson": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Jonathan Froggatt": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Joseph Fielder": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Joseph Scott": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Joshua Bean": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Joshua Owen": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Joshua Talbot": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Julie Reid": {
+          "monday_activity": "",
+          "monday_dinner": "",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Justin Gold": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Kariba Odugbesan": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Kate Monnelly": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Katie Adams": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Kirsty Macknight": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 5 - Iain Mullan"
+       },
+       "Kristy Cole": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Lauren Moore": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Leena Anis": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Lera Prokosheva": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Liam Johnson": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Lizzy Bevan ": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Lottie Crabb": {
+          "monday_activity": "",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Louis Nervais": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Lucy Taylor": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Luke Jennings": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "",
+          "pub_quiz": "",
+          "tuesday_dinner": ""
+       },
+       "Lyle Murray": {
+          "monday_activity": "Whisky 4:00PM",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Maxime Bordeau": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Messias Junior": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Michelle Nomwa": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Mihai Blebea": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Mike Stallard": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Mildred Ehiabor": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Milo Mirzai": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Milo Watson": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Molhim Ahmed": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - Alex Latham",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Nathan Poole": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Nicole Bianchi": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Nikesh Mistry": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Nonso Nwakeze": {
+          "monday_activity": "",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Olivia Moosdeen-Mui": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Olly Jupp": {
+          "monday_activity": "",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Patricia Goncalves": {
+          "monday_activity": "",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Paul Delaney": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Rebecca Savage ": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Renaldo Parkinson": {
+          "monday_activity": "",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Ricardo Albear": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Robert Dougall": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Rochelle Vadillo": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Ruby Frank": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Ryan Adekoya New": {
+          "monday_activity": "",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Ryan Smith": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Sam Leathem": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Sam Oakley": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 3 - Alex Latham"
+       },
+       "Sami Rana": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Savis Irandoost": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 7",
+          "tuesday_dinner": "Group 4 - Corinna Lamberti"
+       },
+       "Savvas Georgiou": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       },
+       "Scott McCracken": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Shane Crowley": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Sheridan New": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Silvana Di Nardo": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Simeon Kay": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Simeon Kay",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "Simon Bruce-Gardner": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Simon Hazeldine": {
+          "monday_activity": "",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Simon Rabin": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 8",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Simone Todaro": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 13 - Sam Leathem"
+       },
+       "Stephanie Ampofo": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 6",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Stephen Sillars": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 9 - Nicole Bianchi"
+       },
+       "Taimur Shabbir": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 11  - Silvana DiNardo"
+       },
+       "Tali Osen": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 5",
+          "tuesday_dinner": "Group 7 - Tali Osen"
+       },
+       "Thomas Austin": {
+          "monday_activity": "Castle",
+          "monday_dinner": "Veeno - Nicole Bianchi",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Thomas McFarlane": {
+          "monday_activity": "",
+          "monday_dinner": "",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 1 - Simon Rabin"
+       },
+       "Toby Prior": {
+          "monday_activity": "",
+          "monday_dinner": "Rosa's Thai - Jo Hill",
+          "pub_quiz": "",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Tom Martin": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Veeno - Jonathan Froggatt",
+          "pub_quiz": "Team 1",
+          "tuesday_dinner": "Group 12 - Tom Martin"
+       },
+       "Tony Lutak": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Amarone - Emma Mohan",
+          "pub_quiz": "Team 9",
+          "tuesday_dinner": "Group 2 - Emma Mohan"
+       },
+       "Trevor Lyons": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Hakata-ya - Simon Rabin",
+          "pub_quiz": "Team 3",
+          "tuesday_dinner": "Group 10 - Jo Hill"
+       },
+       "Wiktoria Wronska": {
+          "monday_activity": "Bus",
+          "monday_dinner": "Chaophraya - John Parkinson",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 6 - Simeon Kay"
+       },
+       "William Curry": {
+          "monday_activity": "Whisky 3:30PM",
+          "monday_dinner": "Boozy Cow - Iain Mullan",
+          "pub_quiz": "Team 4",
+          "tuesday_dinner": ""
+       },
+       "Zoe Austin": {
+          "monday_activity": "Walking Tour",
+          "monday_dinner": "Mowgli - Corinna Lamberti",
+          "pub_quiz": "Team 2",
+          "tuesday_dinner": "Group 8 - Jonathan Froggatt"
+       }
+    }
